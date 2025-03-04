@@ -1,2 +1,2 @@
-# code-vault
-Playground and notes about programming languages, concepts and questions about it.
+# notes
+Notes taken from the internet while studying, along with playground experiments, problems, and their solutions.

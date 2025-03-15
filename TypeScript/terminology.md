@@ -1,4 +1,4 @@
-# Official TypeScript Docs
+# From Official TypeScript Docs
 1. Introduction to TypeScript
 + Type Annotations & Return Type Annotations
 + Variable Declarations

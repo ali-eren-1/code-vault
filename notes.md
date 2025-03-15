@@ -1,7 +1,11 @@
+# Notes
++ Coding HTTP server in C.
+
 # Resources
 + Semantic Versioning: [https://semver.org/](https://semver.org/)
 + Google C++ coding guide.
 + NASA coding guide (The Power of 10: Rules for Developing Safety-Critical Code).
++ crackmes.one
 
 # Books About Reverse Engineering
 + **Beginner**
